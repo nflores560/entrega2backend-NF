@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Cuadro perritos",
+    "description": "blanco y negro",
+    "price": 1000,
+    "thumbnail": "sin imagen",
+    "code": "ad143",
+    "stock": 20,
+    "id": 1
+  },
+  {
+    "title": "Florero 3d",
+    "description": "plateado",
+    "price": 750,
+    "thumbnail": "sin imagen",
+    "code": "ad144",
+    "stock": 10,
+    "id": 2
+  },
+  {
+    "title": "Maceta floreada",
+    "description": "colores",
+    "price": 550,
+    "thumbnail": "sin imagen",
+    "code": "ad145",
+    "stock": 40,
+    "id": 3
+  },
+  {
+    "title": "Portallaves",
+    "description": "pallets",
+    "price": 1200,
+    "thumbnail": "sin imagen",
+    "code": "ad146",
+    "stock": 12,
+    "id": 4
+  },
+  {
+    "title": "Difusor",
+    "description": "vidrio",
+    "price": 2000,
+    "thumbnail": "sin imagen",
+    "code": "ad147",
+    "stock": 10,
+    "id": 5
+  },
+  {
+    "title": "Adorno gatito",
+    "description": "dorado",
+    "price": 600,
+    "thumbnail": "sin imagen",
+    "code": "ad148",
+    "stock": 30,
+    "id": 6
+  },
+  {
+    "title": "Cuadro perritos",
+    "description": "blanco y negro",
+    "price": 1000,
+    "thumbnail": "sin imagen",
+    "code": "ad143",
+    "stock": 20,
+    "id": 7
+  },
+  {
+    "title": "Florero 3d",
+    "description": "plateado",
+    "price": 750,
+    "thumbnail": "sin imagen",
+    "code": "ad144",
+    "stock": 10,
+    "id": 8
+  },
+  {
+    "title": "Maceta floreada",
+    "description": "colores",
+    "price": 550,
+    "thumbnail": "sin imagen",
+    "code": "ad145",
+    "stock": 40,
+    "id": 9
+  },
+  {
+    "title": "Portallaves",
+    "description": "pallets",
+    "price": 1200,
+    "thumbnail": "sin imagen",
+    "code": "ad146",
+    "stock": 12,
+    "id": 10
+  },
+  {
+    "title": "Difusor",
+    "description": "vidrio",
+    "price": 2000,
+    "thumbnail": "sin imagen",
+    "code": "ad147",
+    "stock": 10,
+    "id": 11
+  },
+  {
+    "title": "Adorno gatito",
+    "description": "dorado",
+    "price": 600,
+    "thumbnail": "sin imagen",
+    "code": "ad148",
+    "stock": 30,
+    "id": 12
+  },
+  {
+    "title": "Cuadro perritos",
+    "description": "blanco y negro",
+    "price": 1000,
+    "thumbnail": "sin imagen",
+    "code": "ad143",
+    "stock": 20,
+    "id": 13
+  },
+  {
+    "title": "Florero 3d",
+    "description": "plateado",
+    "price": 750,
+    "thumbnail": "sin imagen",
+    "code": "ad144",
+    "stock": 10,
+    "id": 14
+  },
+  {
+    "title": "Maceta floreada",
+    "description": "colores",
+    "price": 550,
+    "thumbnail": "sin imagen",
+    "code": "ad145",
+    "stock": 40,
+    "id": 15
+  },
+  {
+    "title": "Portallaves",
+    "description": "pallets",
+    "price": 1200,
+    "thumbnail": "sin imagen",
+    "code": "ad146",
+    "stock": 12,
+    "id": 16
+  },
+  {
+    "title": "Difusor",
+    "description": "vidrio",
+    "price": 2000,
+    "thumbnail": "sin imagen",
+    "code": "ad147",
+    "stock": 10,
+    "id": 17
+  },
+  {
+    "title": "Adorno gatito",
+    "description": "dorado",
+    "price": 600,
+    "thumbnail": "sin imagen",
+    "code": "ad148",
+    "stock": 30,
+    "id": 18
+  }
+]
